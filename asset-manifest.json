@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tiktok.github.io/static/css/main.01f05680.css",
+    "main.js": "/tiktok.github.io/static/js/main.722d22a8.js",
+    "static/js/787.fe00223f.chunk.js": "/tiktok.github.io/static/js/787.fe00223f.chunk.js",
+    "static/media/logo.svg": "/tiktok.github.io/static/media/logo.bf3a17d871bafaba5a7cfc6d43479e0d.svg",
+    "index.html": "/tiktok.github.io/index.html",
+    "main.01f05680.css.map": "/tiktok.github.io/static/css/main.01f05680.css.map",
+    "main.722d22a8.js.map": "/tiktok.github.io/static/js/main.722d22a8.js.map",
+    "787.fe00223f.chunk.js.map": "/tiktok.github.io/static/js/787.fe00223f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01f05680.css",
+    "static/js/main.722d22a8.js"
+  ]
+}
