@@ -1,0 +1,62 @@
+.container-video {
+    display: flex;
+    position: relative;
+    width: 692px;
+}
+
+.video {
+    height: calc(450px + (100vw - 768px) / 1152 * 100);
+    border-radius: 10px;
+    margin-left: 74px;
+    max-width: 268px;
+}
+
+.action-icon {
+    position: absolute;
+    bottom: 0;
+    right: 285px;
+}
+
+.action {
+    text-align: center;
+
+    & > div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 48px;
+        height: 48px;
+        background-color: #f1f1f2;
+        border-radius: 50%;
+
+        &:hover {
+            cursor: pointer;
+            opacity: 0.9;
+        }
+    }
+
+    .icon {
+        width: 21px;
+        height: 21px;
+    }
+
+    .like {
+        color: red;
+    }
+}
+
+.count {
+    display: block;
+    margin: 4px 0;
+}
+
+.btn-handle--video {
+    position: absolute;
+    bottom: 42px;
+    left: 98px;
+    display: flex;
+    justify-content: space-between;
+    width: 32%;
+    color: #fff;
+    font-size: 20px;
+}

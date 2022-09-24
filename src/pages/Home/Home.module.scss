@@ -1,0 +1,17 @@
+.wrapper1 {
+    max-width: 692px;
+    margin-left: 100px;
+    overflow: scroll;
+}
+
+.content {
+    margin-top: 24px;
+    position: relative;
+    right: -270px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
